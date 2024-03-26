@@ -1,0 +1,66 @@
+﻿@model List<PostViewModel>
+<h4 class="py-3 mb-4">
+    <span class="text-muted fw-light">Recycle Bin /</span> Posts
+</h4>
+<div class="card">
+    <h5 class="card-header">Table Basic</h5>
+
+    <div class="container">
+        <div class="table-responsive text-nowrap">
+            <table class="table border border-5" id="postTables" cellspacing="0" width="100%">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Category</th>
+                        <th>Created Date</th>
+                        <th>Created By</th>
+                        <th>State</th>
+                        <th>Transactions</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Title</th>
+                        <th>Category</th>
+                        <th>Created Date</th>
+                        <th>Created By</th>
+                        <th>State</th>
+                        <th>Transactions</th>
+                    </tr>
+                </tfoot>
+                <tbody class="table-border-bottom-0">
+                    @foreach (var post in Model)
+                    {
+                        <tr name="@post.Id">
+                            <td>@post.Title</td>
+                            <td>@post.Category.Name</td>
+                            <td>@post.CreatedDate.ToShortDateString()</td>
+                            <td>@post.CreatedBy</td>
+                            <td>@(post.isActive ? "Aktif Değil" : "Aktif")</td>
+                            <td>
+
+                                <a class="btn btn-danger btn-sm" data-id="@post.Id" asp-area="Admin" asp-controller="Post" asp-action="UndoDelete" asp-route-postId="@post.Id" onclick="return confirm('Geri yüklemek istediğinden emin misin?')"><i class="bx bx-recycle"></i></a>
+
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+@section Scripts {
+    <script src="~/js/postIndex.js" type="application/ecmascript"></script>
+}
+<script>
+    function clicked(e) {
+        if (!confirm('Geri yüklemek istediğinizden emin misiniz emin misin?')) {
+            e.preventDefault();
+        }
+    }
+</script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="~/web/alertify.min.js" />
+<script src="~/js/site.js" asp-append-version="true"></script>

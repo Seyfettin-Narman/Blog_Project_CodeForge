@@ -1,0 +1,65 @@
+﻿@model List<CategoryViewModel>
+<h4 class="py-3 mb-4">
+    <span class="text-muted fw-light">Recycle Bin /</span> Categories
+</h4>
+<div class="card">
+    <h5 class="card-header">Table Basic</h5>
+
+    <div class="container">
+        <div class="table-responsive text-nowrap">
+            <table class="table border border-5" id="categoriesTable" cellspacing="0" width="100%">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Created Date</th>
+                        <th>Created By</th>
+                        <th>State</th>
+                        <th>Transactions</th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Title</th>
+                        <th>Created Date</th>
+                        <th>Created By</th>
+                        <th>State</th>
+                        <th>Transactions</th>
+                    </tr>
+                </tfoot>
+                <tbody class="table-border-bottom-0">
+                    @foreach (var category in Model)
+                    {
+                        <tr name="@category.Id">
+
+                            <td>@category.Name</td>
+                            <td>@category.CreatedDate.ToShortDateString()</td>
+                            <td>@category.CreatedBy</td>
+                            <td>@(category.isActive ? "Aktif Değil" : "Aktif")</td>
+                            <td>
+
+                             
+                                <a class="btn btn-danger btn-sm" data-id="@category.Id" asp-area="Admin" asp-controller="Category" asp-action="UndoDelete" asp-route-categoryId="@category.Id" onclick="return confirm('Silmek istediğinden emin misin?')"><i class="bx bx-recycle"></i></a>
+
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+@section Scripts {
+    <script src="~/js/categoryIndex.js" type="application/ecmascript"></script>
+}
+<script>
+    function clicked(e) {
+        if (!confirm('Silmek istediğinden emin misin?')) {
+            e.preventDefault();
+        }
+    }
+</script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="~/web/alertify.min.js" />
+<script src="~/js/site.js" asp-append-version="true"></script>
