@@ -16,7 +16,7 @@ Veritabanı işlemlerini OOP mantığına uygun bir şekilde gerçekleştirmek i
 
 Fluent Validation ile istenilen doğrulama kurallarını tanımlamış olduk.
 
-Kimlik doğrulama ve yetklendirme işlemleri yapıldı.
+Kimlik doğrulama ve yetkilendirme işlemleri yapıldı.
 
 AutoMapper ile sınıflar arası veri aktarımını otomatikleştirmiş olduk.
 
