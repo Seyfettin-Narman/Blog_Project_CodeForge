@@ -57,7 +57,7 @@ Ayrıca uyarılar türkçeleştirilmiştir. Örneğini aşağıdaki fotoğrafta 
 İlgili yerler doldurulup submite basıldığında gönderi başarılı bir şekilde gönderildi ise NtoastNotify ile sağ alt köşede kullanıcıya bilgi veriyoruz. Örneğini aşağıdaki fotoğrafta görebilirsiniz:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/ec6f8480-6345-467a-bcb5-e1ab30fa8014)
 
-Eklenen gönderi hakkında bir güncelleme yapmak istiyorsak listedeki düzenleme işlemi butonuna bastığımızda eski veriler ile beraber bizi güncelleme ekranı karşılıyor olacak. Örneğini aşağıdaki fotoğrafta görebilirsiniz.
+Eklenen gönderi hakkında bir güncelleme yapmak için listedeki düzenleme işlemi butonuna bastığımızda eski veriler ile beraber bizi güncelleme ekranı karşılıyor olacak. Örneğini aşağıdaki fotoğrafta görebilirsiniz.
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/8d8f8ddb-92fc-45be-ab62-d5e9cdc42540)
 
 Eğer eklenen gönderiyi silmek isterseniz sil butonuna tıklayabilirsiniz. Sil butonuna tıkladığınızda size silmek istediğnizden emin olduğunuz konusunda bir mesaj gelecektir. Eğer Tamam butonuna tıklarsanız
