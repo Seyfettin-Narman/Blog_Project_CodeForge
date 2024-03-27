@@ -42,8 +42,8 @@ admin panele giriş yaptığımızda bizi böyle bir ekran karşılıyor olacak:
 gönderileri listelerini görüntülemek için post management sekmesine tıklayınız karşısınızdaki ekran aşağıdaki fotoğraf gibi olacaktır:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/87a40b26-e84f-475b-98ae-2193b08bcb69)
 
-Eğer Topmanager ve admin değilseniz bu sayfa sizlere aşağıdaki fotoğraftaki gibi gözükecektir ve gödneri eklemenize, düzeltmenize veya silmenize engel olmak için gerekli componentler sizlere gösterilmeyecektir
-(Gözükseydi bile bir eişim engeli sayfası oluşturulmuştur.):
+Eğer Topmanager ve admin değilseniz bu sayfa sizlere aşağıdaki fotoğraftaki gibi gözükecektir ve gönderi eklemenize, düzeltmenize veya silmenize engel olmak için gerekli componentler sizlere gösterilmeyecektir
+(Gözükseydi bile bir eişim engeli sayfası oluşturulmuştur.) :
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/b29cdd5f-3277-4c62-8bbb-8a11bb5f6a49
 
 Add post butonuna tıkladığımızda bizi aşağıdaki fotoğraftaki gibi bir sayfa bekliyor olacak:
