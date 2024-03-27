@@ -60,8 +60,8 @@ Ayrıca uyarılar türkçeleştirilmiştir. Örneğini aşağıdaki fotoğrafta 
 Eklenen gönderi hakkında bir güncelleme yapmak için listedeki düzenleme işlemi butonuna bastığımızda eski veriler ile beraber bizi güncelleme ekranı karşılıyor olacak. Örneğini aşağıdaki fotoğrafta görebilirsiniz.
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/8d8f8ddb-92fc-45be-ab62-d5e9cdc42540)
 
-Eğer eklenen gönderiyi silmek isterseniz sil butonuna tıklayabilirsiniz. Sil butonuna tıkladığınızda size silmek istediğnizden emin olduğunuz konusunda bir mesaj gelecektir. Eğer Tamam butonuna tıklarsanız
-gönderi silinecek iptal basarsanız herhangi bir değişiklik olmayacaktır:
+Eğer eklenen gönderiyi silmek isterseniz sil butonuna tıklayabilirsiniz. Sil butonuna tıkladığınızda size silmek istediğinizden emin olduğunuz konusunda bir mesaj gelecektir. Eğer Tamam butonuna tıklarsanız
+gönderi silinecek iptal butonuna basarsanız herhangi bir değişiklik olmayacaktır:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/8e74138c-c68f-4ee8-9e0b-e0ec4b449215)
 
 Silinen bir gönderi veya kategoriyi geri yüklemek için Deleted Items alanında hem gönderi hem kategori için iki alan bulunmaktadır:
