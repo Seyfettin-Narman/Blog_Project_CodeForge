@@ -118,7 +118,7 @@ Admin panel oturumunuzu sonlandırmak istiyorsanız aşağıdaki fotoğrafta bul
 Blog sayfamızın ön yüzüne geldiğimizde ise bizi aşağıdaki fotoğraftaki gibi bir sayfa bekliyor olacak:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/33743a11-efed-4b7a-a297-b55fa605bf85)
 
-Admin panelde eklediğimiz tüm gödneriler anında bu sayfaya yansımış oluyor. Her gönderinin gönderim zamanı, gönderen kişi,kategori, görüntüleme sayısı ve yorumlar kısmı vardır.(görüntüleme sayısı ve yorum kısmı yapım aşamasındadır.)
+Admin panelde eklediğimiz tüm gönderiler anında bu sayfaya yansımış oluyor. Her gönderinin gönderim zamanı, gönderen kişi,kategori, görüntüleme sayısı ve yorumlar kısmı vardır.(görüntüleme sayısı ve yorum kısmı yapım aşamasındadır.)
 Her gönderinin sağ altında ise Devamını oku kısmı vardır. Bu kısma tıkladığınızda gönderinin tüm yazısına ulaşabilirsiniz. Örneğini aşağıdaki fotoğrafta görebilirsiniz:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/7872647e-e83d-4f43-b29a-226c34239393)
 
