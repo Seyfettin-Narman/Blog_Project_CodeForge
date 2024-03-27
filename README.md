@@ -131,7 +131,8 @@ Eklenen kategoriler sayfanın sağ yanında aşağıdaki fotoğraftaki gibi sır
 kategoriye basıldığında ekrana sadece o etikete sahip gönderiler gelmektedir.Örneğin donanım kategorisine bastığımda sayfa şu şekilde olmaktadır:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/88aa325e-a155-42d2-a0a0-ad5b81f1aa07)
 
-Ayrıca aşağıdaki fotoğrafta bulunan Search kısmında istenilen string değerlere göre gönderilerde arama yaparak ilgili gönderiler ekrana getirilmektedir. Aşağıda bu adımlar gösterilmektedir:
+Ayrıca aşağıdaki fotoğrafta bulunan search kısmında istenilen string değerlere göre gönderilerde arama yaparak ilgili gönderiler ekrana getirilmektedir. Aşağıda bu adımlar gösterilmektedir:
+
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/eabb84c5-1a01-49bd-af4b-17309013ea88)
 
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/94d2c564-cd5f-4fe9-bd92-f36745fc4cea)
