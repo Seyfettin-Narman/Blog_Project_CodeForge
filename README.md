@@ -44,7 +44,7 @@ gönderileri listelerini görüntülemek için post management sekmesine tıklay
 
 Eğer Topmanager ve admin değilseniz bu sayfa sizlere aşağıdaki fotoğraftaki gibi gözükecektir ve gönderi eklemenize, düzeltmenize veya silmenize engel olmak için gerekli componentler sizlere gösterilmeyecektir
 (Gözükseydi bile bir eişim engeli sayfası oluşturulmuştur.) :
-![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/b29cdd5f-3277-4c62-8bbb-8a11bb5f6a49
+![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/b29cdd5f-3277-4c62-8bbb-8a11bb5f6a49)
 
 Add post butonuna tıkladığımızda bizi aşağıdaki fotoğraftaki gibi bir sayfa bekliyor olacak:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/d7421b9f-067f-4bf8-977e-2e1354239abf)
