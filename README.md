@@ -34,6 +34,7 @@ Topmanager ve adminde dashboard sidebarı böyle gözükürken:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/bd7fb617-7181-4c65-a86e-4c5943cf7f35)
 
 kullanıcı rolünde diğer yerlere erişimini engellemek adına böyle bir görüntü vardır: 
+
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/bff7d5db-809e-43d7-8644-1bd0104c54de)
 
 admin panele giriş yaptığımızda bizi böyle bir ekran karşılıyor olacak: 
