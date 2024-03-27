@@ -27,8 +27,8 @@ Admin bölümüne girmeyi denediğimizde bizi aşağıdaki resimdeki gibi bir lo
 
 
 Giriş yapabilmeniz için blog sayfası admini(Topmanager) admin panel üzerinden sizleri blog sayfasına abone yapması gerekiyor.
-Yazarlara admin rolü abonelere ise kullanıcı rolü veriliyor. Adminlerin gönderi ekleme, güncelleme ve silme yetkisi bulunuyor ayrıca kategori ekleme,güncelleme ve silme yetkisi bulunuyor. Kullanıcı ekleme ve güncelleme
-yetkisi bulunsa da kullanıcı silme yetkisi sadece topmanager rolüne açıktır. Kullanıcı rolünde ise sadece gönderileri ve kategorileme özelliği etkindir. Başka hiç bir yetkisi yoktur. Topmanager ve admin rolünde 
+Yazarlara admin rolü, abonelere ise kullanıcı rolü veriliyor. Adminlerin gönderi ekleme, güncelleme ve silme yetkisi bulunuyor ayrıca kategori ekleme,güncelleme ve silme yetkisi bulunuyor. Kullanıcı ekleme ve güncelleme
+yetkisi bulunsa da kullanıcı silme yetkisi sadece topmanager rolüne açıktır. Kullanıcı rolünde ise sadece gönderileri ve kategorileri listeleme özelliği etkindir. Başka hiç bir yetkisi yoktur. Topmanager ve admin rolünde 
 gönderiler veya kategoriler silindiğinde direkt içeriğin kaybolmasını önlemek adına bir geri dönüşüm kutusu projeye eklendi. İstenilen zaman bu geri dönüşüm kutusundan kategori veya gönderiyi geri getirebilirler.
 Topmanager ve adminde dashboard sidebarı böyle gözükürken: 
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/bd7fb617-7181-4c65-a86e-4c5943cf7f35)
