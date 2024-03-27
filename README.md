@@ -87,7 +87,7 @@ Var olan kategoriyi güncellemek istediğinzde Category Management alanında bul
 aşağıdaki fotoğraftaki gibi sizi bekliyor olacak:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/e3c616d9-8548-45ae-8a5a-22fe504590e4)
 
-Kategori silmek ise gönderi silmekle aynı işlemleri gerektiyor.
+Kategori silmek ise gönderi silmekle aynı işlemleri gerektiriyor.
 
 Kullanıcı bilgilerini görmek için Users kısmına tıklayınız. Bu kısma tıkladığınızda sizi aşağıdaki fotoğraftaki gibi bir alan bekliyor olacaktır:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/01f2ebb7-29d4-4ca7-b898-81a5444bc5fb)
