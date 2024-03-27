@@ -70,7 +70,7 @@ Silinen bir gönderi veya kategoriyi geri yüklemek için Deleted Items alanınd
 Silinen gönderi veya kategoriyi geri getirmek için Deleted Items içindeki ilgili yere tıkladığınızda sizi aşağıdaki fotoğraftaki gibi bir sayfa karşılıyor olacak: 
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/58d0166a-60e4-42b7-9cbb-bfc51bf4b157)
 
-Geri dönüşüm butonuna bastığınızda size uyarı olarak bu veriyi geri getirmek istediğinizden emin misiniz sorusu sorulacak. Tamam butonuna basarsanız veriyi geri döndürecektir. İptal tuşuna basarsanız herhangi bir
+Geri dönüşüm butonuna bastığınızda size uyarı olarak bu veriyi geri getirmek istediğinizden emin misiniz sorusu sorulacak. Tamam butonuna basarsanız veriyi geri döndürecektir. İptal butonuna basarsanız herhangi bir
 eylemde bulunmayacaktır:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/34bd7182-6c67-4e01-a073-f8bc8bc7d129)
 
