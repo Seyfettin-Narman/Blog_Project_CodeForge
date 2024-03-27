@@ -22,7 +22,7 @@ AutoMapper ile sınıflar arası veri aktarımını otomatikleştirmiş olduk.
 
 Gerçekleştirilen işlemlerden sonra kullanıcı arayüzüne bildirim göndermek için ise NToastNotify kullanılmıştır.
 
-Admin bölümüne girmeye kalktığımızda bizi aşağıdaki resimdeki gibi bir login ekranı karşılıyor olacak:
+Admin bölümüne girmeyi denediğimizde bizi aşağıdaki resimdeki gibi bir login ekranı karşılıyor olacak:
 ![image](https://github.com/Seyfettin-Narman/Blog_Project_CodeForge/assets/105067376/5afdab9a-aa6f-462d-979e-99ef404ad4e7)
 
 
